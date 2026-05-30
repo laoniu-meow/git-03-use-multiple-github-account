@@ -66,3 +66,11 @@ ssh -T git@<hostname-in-config>
 
 ## Basic Troubleshooting tips
 This is a common error, and many beginners are not aware of it when using multiple accounts, especially when performing a git clone to store a new repository locally
+
+Please refer back to the config file settings and identify the hostname, if the hostname configure wrongly
+
+![Alt Text](media/hostname.png)
+
+Error Message:
+![Alt Text](media/error.png)
+
