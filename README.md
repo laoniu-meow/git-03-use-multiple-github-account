@@ -72,5 +72,6 @@ Please refer back to the config file settings and identify the hostname, if the 
 ![Alt Text](media/hostname.png)
 
 Error Message:
+
 ![Alt Text](media/error.png)
 
